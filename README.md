@@ -8,4 +8,4 @@ Ky projekt eshte sistemuar per te shoqeruar prezantimin qe kam bere tek tek Kole
 
 [Meso me shume per HTML, Javascript, etj tek FreeCodeCamp](http://freecodecamp.com/)
 
-[Vlereso seminarin](https://docs.google.com/forms/d/e/1FAIpQLSdu462fiAQC-KevyXlwJ3dhZV1X1Uh1ea3kTb126-cZfjON3g)
+[Vlereso seminarin](https://docs.google.com/forms/d/e/1FAIpQLSdu462fiAQC-KevyXlwJ3dhZV1X1Uh1ea3kTb126-cZfjON3g/viewform?usp=sf_link)
